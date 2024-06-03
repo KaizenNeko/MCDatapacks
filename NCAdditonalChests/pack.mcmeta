@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 26},
+    "description": "Craft 4 chests from 8 logs like modded does.",
+    "author": "KaizenNeko",
+    "revision": "1.0.0"
+  }
+}

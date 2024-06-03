@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 18},
+    "description": "Adds craftable grass blocks using dirt, bonemeal, and cut grasses. For 1.13.0-1.20.2",
+    "author": "KaizenNeko",
+    "revision": "1.1.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "supported_formats": {"min_inclusive": 7, "max_inclusive": 26},
+    "description": "Craftable glow ink! For 1.17.0+",
+    "author": "KaizenNeko",
+    "revision": "1.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 26},
+    "description": "",
+    "author": "KaizenNeko",
+    "revision": "1.0.0"
+  }
+}
